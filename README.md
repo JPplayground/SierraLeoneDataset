@@ -22,7 +22,7 @@ and ended up costing me about $1.00 in total. Not bad!
 - Re-merged the data back together in the form of a SQLite database
 
 ## Results
-The results are, for the most part,a well formatted database that can be utilized in future projects.
+The results are, for the most part, a well formatted database that can be utilized in future projects.
 There are still mistakes within the data that can be corrected over time. Feel free to use the dataset 
 or any of the scripts in this project in your own projects.
 
